@@ -6,4 +6,4 @@ c= a+b
 print (c)
 print (type(c))
 
-a= 8 + 2i
+a = 8 + 2j
